@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<plannedRWs>
+
+    <planned>
+        <title>M6</title>
+        <description>
+            Start Date: Tuesday, 24 March 2020 - 00:00<br />End Date: Wednesday, 01 April 2020 - 00:00<br />TYPE : AWP Location : The M6 northbound between junctions J41 and J42 Lane Closures : Lanes 1, 2
+        </description>
+        <pubDate>Tue, 24 Mar 2020 00:00:00 GMT</pubDate>
+    </planned>
+
+    <planned>
+        <title>A1</title>
+        <description>
+            Start Date: Friday, 20 March 2020 - 00:00<br />End Date: Monday, 30 March 2020 - 00:00<br />TYPE : AWP Location : The A1 southbound between the A191 and the junction with the A184
+        </description>
+        <pubDate>Fri, 20 Mar 2020 00:00:00 GMT</pubDate>
+    </planned>
+
+</plannedRWs>
